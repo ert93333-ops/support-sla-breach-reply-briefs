@@ -26,7 +26,7 @@ Payments are not connected. The MVP uses early-access, demo-request, and purchas
 
 - Landing page: https://ert93333-ops.github.io/support-sla-breach-reply-briefs/
 - Template: https://ert93333-ops.github.io/support-sla-breach-reply-briefs/support-sla-breach-response-template.html
-- GitHub Gist checklist: pending marketing
+- GitHub Gist checklist: https://gist.github.com/ert93333-ops/5ced00c087d0dec4ff01cbe047d1e5c6
 
 ## Marketing Test Links
 
